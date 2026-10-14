@@ -1,0 +1,27 @@
+{
+  "name": "drfit",
+  "version": "1.0.0",
+  "description": "Backend for Drfit",
+  "keywords": [
+    "e-commerce"
+  ],
+  "homepage": "https://github.com/ZainAli985/Drift#readme",
+  "bugs": {
+    "url": "https://github.com/ZainAli985/Drift/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZainAli985/Drift.git"
+  },
+  "license": "MIT",
+  "author": "M. Zain Ali",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
